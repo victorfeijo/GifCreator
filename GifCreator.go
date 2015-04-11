@@ -19,7 +19,7 @@ func main() {
 	//Flags for catch the inputs when exc the binary
 	inputDir := flag.String("in", "./", "Input Directory")
 	output := flag.String("out", "animation.gif", "Output")
-    delay := flag.Int("delay", 100, "Delay Between images")
+    	delay := flag.Int("delay", 100, "Delay Between images")
 	flag.Parse()
 
 	//Read Files from input directory
