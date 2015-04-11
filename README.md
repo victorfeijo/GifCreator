@@ -1,5 +1,5 @@
 # GifCreator
-**Supports for .jpg / .png / .jpeg**
+**Support for .jpg / .png / .jpeg**
 
 For use this application open a terminal and type:
 
