@@ -13,6 +13,6 @@ delay = 100 ( 1 second )
 
 Sort your files in ImagesDirectory :
 
-1.png/ 2.png/ 3.png ...
+a.png/ b.png/ c.png ... z.png
 
 Enjoy
