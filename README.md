@@ -1,7 +1,7 @@
 # GifCreator
 **Support for .jpg / .png / .jpeg**
 
-For use this application open a terminal and type:
+To use this application open a terminal and type:
 
 ```
 ./GifCreator --in ImagesDirectory --out FileName.gif --delay HundredthSeconds
